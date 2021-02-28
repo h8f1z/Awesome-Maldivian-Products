@@ -5,7 +5,7 @@ A curated list of awesome products made in Maldives by Maldivian(s)
 
 ToC
 ---
-[News/Articles](#newsarticles] )
+[News/Articles](#newsarticles)  
 [AI](#ai)
   
   
